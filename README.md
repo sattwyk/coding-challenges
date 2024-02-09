@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I'm trying to learn go so i'm doing all the coding challenges from [here](https://codingchallenges.fyi/challeges/intro) in go.
+I'm trying to learn go so i'm doing all the coding challenges from [here](https://codingchallenges.fyi/challenges/intro) in go.
 
 
 ## Challenges
