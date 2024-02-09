@@ -4,53 +4,52 @@ Hey there 👋
 
 I'm trying to learn go so i'm doing all the coding challenges from [here](https://codingchallenges.fyi/challenges/intro) in go.
 
-
 ## Challenges
 
-- [ ] Build Your Own wc Tool
-- [ ] Build Your Own JSON Parser
-- [ ] Build Your Own Compression Tool
-- [ ] Build Your Own cut Tool
-- [ ] Build You Own Load Balancer
-- [ ] Build Your Own Sort Tool
-- [ ] Build Your Own Calculator
-- [ ] Build Your Own Redis Server
-- [ ] Build Your Own grep
-- [ ] Build Your Own uniq Tool
-- [ ] Build Your Own Web Server
-- [ ] Build Your Own URL Shortener
-- [ ] Build Your Own diff Tool
-- [ ] Build Your Own Shell
-- [ ] Build Your Own cat Tool
-- [ ] Build Your Own IRC Client
-- [ ] Build Your Own Memcached Server
-- [ ] Build Your Own Spotify Client
-- [ ] Build Your Own Discord Bot
-- [ ] Build Your Own LinkedIn Carousel Generator
-- [ ] Build Your Own Sed
-- [ ] Build Your Own DNS Resolver
-- [ ] Build Your Own Traceroute
-- [ ] Build Your Own Realtime Chat Client and Server
-- [ ] Build Your Own NATS Message Broker
-- [ ] Build Your Own Git
-- [ ] Build Your Own Rate Limiter
-- [ ] Build Your Own NTP Client
-- [ ] Build Your Own Scheduling Automation App
-- [ ] Build Your Own Lisp Interpreter
-- [ ] Build Your Own QR Code Generator
-- [ ] Build Your Own Crontab Tool
-- [ ] Build Your Own head
-- [ ] Build Your Own jq
-- [ ] Build Your Own Google Keep
-- [ ] Build Your Own Pong
-- [ ] Build Your Own Redis CLI Tool
-- [ ] Build Your Own Network Modelling Tool
-- [ ] Build Your Own Social Media Tool
-- [ ] Build Your Own curl
-- [ ] Build Your Own HTTP(S) Load Tester
-- [ ] Build Your Own tr Tool.
-- [ ] Build Your Own Tetris
-- [ ] Build Your Own DNS Forwarder
-- [ ] Build Your Own Port Scanner
-- [ ] Build Your Own yq
-- [ ] Build Your Own Chrome Extension
+- [ ] [Build Your Own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc)
+- [ ] [Build Your Own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
+- [ ] [Build Your Own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman)
+- [ ] [Build Your Own cut Tool](https://codingchallenges.fyi/challenges/challenge-cut)
+- [ ] [Build You Own Load Balancer](https://codingchallenges.fyi/challenges/challenge-load-balancer)
+- [ ] [Build Your Own Sort Tool](https://codingchallenges.fyi/challenges/challenge-sort)
+- [ ] [Build Your Own Calculator](https://codingchallenges.fyi/challenges/challenge-calculator)
+- [ ] [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis)
+- [ ] [Build Your Own grep](https://codingchallenges.fyi/challenges/challenge-grep)
+- [ ] [Build Your Own uniq Tool](https://codingchallenges.fyi/challenges/challenge-uniq)
+- [ ] [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver)
+- [ ] [Build Your Own URL Shortener](https://codingchallenges.fyi/challenges/challenge-url-shortener)
+- [ ] [Build Your Own diff Tool](https://codingchallenges.fyi/challenges/challenge-diff)
+- [ ] [Build Your Own Shell](https://codingchallenges.fyi/challenges/challenge-shell)
+- [ ] [Build Your Own cat Tool](https://codingchallenges.fyi/challenges/challenge-cat)
+- [ ] [Build Your Own IRC Client](https://codingchallenges.fyi/challenges/challenge-irc)
+- [ ] [Build Your Own Memcached Server](https://codingchallenges.fyi/challenges/challenge-memcached)
+- [ ] [Build Your Own Spotify Client](https://codingchallenges.fyi/challenges/challenge-spotify)
+- [ ] [Build Your Own Discord Bot](https://codingchallenges.fyi/challenges/challenge-discord)
+- [ ] [Build Your Own LinkedIn Carousel Generator](https://codingchallenges.fyi/challenges/challenge-licq)
+- [ ] [Build Your Own Sed](https://codingchallenges.fyi/challenges/challenge-sed)
+- [ ] [Build Your Own DNS Resolver](https://codingchallenges.fyi/challenges/challenge-dns-resolver)
+- [ ] [Build Your Own Traceroute](https://codingchallenges.fyi/challenges/challenge-traceroute)
+- [ ] [Build Your Own Realtime Chat Client and Server](https://codingchallenges.fyi/challenges/challenge-realtime-chat)
+- [ ] [Build Your Own NATS Message Broker](https://codingchallenges.fyi/challenges/challenge-nats)
+- [ ] [Build Your Own Git](https://codingchallenges.fyi/challenges/challenge-git)
+- [ ] [Build Your Own Rate Limiter](https://codingchallenges.fyi/challenges/challenge-rate-limiter)
+- [ ] [Build Your Own NTP Client](https://codingchallenges.fyi/challenges/challenge-ntp)
+- [ ] [Build Your Own Scheduling Automation App](https://codingchallenges.fyi/challenges/challenge-scheduler)
+- [ ] [Build Your Own Lisp Interpreter](https://codingchallenges.fyi/challenges/challenge-lisp)
+- [ ] [Build Your Own QR Code Generator](https://codingchallenges.fyi/challenges/challenge-qr-generator)
+- [ ] [Build Your Own Crontab Tool](https://codingchallenges.fyi/challenges/challenge-cron)
+- [ ] [Build Your Own head](https://codingchallenges.fyi/challenges/challenge-head)
+- [ ] [Build Your Own jq](https://codingchallenges.fyi/challenges/challenge-jq)
+- [ ] [Build Your Own Google Keep](https://codingchallenges.fyi/challenges/challenge-keep)
+- [ ] [Build Your Own Pong](https://codingchallenges.fyi/challenges/challenge-pong)
+- [ ] [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli)
+- [ ] [Build Your Own Network Modelling Tool](https://codingchallenges.fyi/challenges/challenge-network-modeller)
+- [ ] [Build Your Own Social Media Tool](https://codingchallenges.fyi/challenges/challenge-sm-tool)
+- [ ] [Build Your Own curl](https://codingchallenges.fyi/challenges/challenge-curl)
+- [ ] [Build Your Own HTTP(S) Load Tester](https://codingchallenges.fyi/challenges/challenge-load-tester)
+- [ ] [Build Your Own tr Tool.](https://codingchallenges.fyi/challenges/challenge-tr)
+- [ ] [Build Your Own Tetris](https://codingchallenges.fyi/challenges/challenge-tetris)
+- [ ] [Build Your Own DNS Forwarder](https://codingchallenges.fyi/challenges/challenge-dns-forwarder)
+- [ ] [Build Your Own Port Scanner](https://codingchallenges.fyi/challenges/challenge-port-scanner)
+- [ ] [Build Your Own yq](https://codingchallenges.fyi/challenges/challenge-yq)
+- [ ] [Build Your Own Chrome Extension](https://codingchallenges.fyi/challenges/challenge-chrome-extension)
